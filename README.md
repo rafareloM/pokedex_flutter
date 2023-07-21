@@ -1,4 +1,4 @@
-# dio_app
+# pokedex_app
 
 A simple Pokémon App using Flutter and the PokéAPI.
 
